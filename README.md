@@ -1,3 +1,4 @@
+All rights is reserved by Israr Ullah.
 this is a gui app developed through tkinter python. it can generate the qrcode according to the information given to it.
 
 what you wanna do just download python install it. open the cmd or terminal in the that directory where you downloaded this repository and type this command.
